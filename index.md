@@ -9,10 +9,131 @@ Van nature ben ik een erg introvert persoon en ik heb tijd nodig om mensen te le
 
 
 ### Overzicht Activiteiten
+#### Projectweek 2TIN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kennismaking met projectpartners en het bijwonen van verschillende seminaries en workshops.
 
-```markdown
-Syntax highlighted code block
+Hasselt PXL Elfde Liniestraat 
+06/02/2017 t.e.m. 10/02/2016 (28u)
+
+#### Projectweek: Pitch an idea 
+
+1ste plaats bij de pitch an idea wedstrijd tijdens de projectweek.
+
+Hasselt PXL Elfde Liniestraat 
+10/02/2016 (10u)
+
+#### Seminarie iCapps
+
+Een tweevoudig seminarie, deel 1 gaat over het bouwen van een chatbot. Deel 2 gaat over blockchain.
+
+Hasselt PXL Elfde Liniestraat 
+27/09/2017 (2u)
+
+#### Seminarie AppFoundry
+
+Android in de praktijk, ervaringen vanuit de bedrijfswereld. Informatie over de gebruikte tools, libraries en talloze tips.
+
+Hasselt Corda Conference
+4/10/2017 (3u)
+
+#### Seminarie FW4
+
+Een overzicht van hoe blockchain eigenlijk al deel uitmaakt van de stap naar de 4de industriële revolutie.
+
+Hasselt PXL Elfde Liniestraat 
+18/10/2017 (2u)
+
+#### Seminarie RealDolmen
+
+Een diepgaande kijk op de OWASP top 10 met telkens een demo en wat theorie.
+
+Hasselt PXL Elfde Liniestraat 
+8/11/2017 (3u)
+
+#### Seminarie Refleqt
+
+Hands-on ervaring met technologieën rond het hele test en automation verhaal. Uitleg over de tools en hoe ze te gebruiken.
+
+Hasselt Corda Conference
+29/11/2017 (3u)
+
+#### Seminarie EASI
+
+Informatie over het IBM power verhaal. Voorbeelden uit het bedrijfsleven met getuigenissen van verschillende bedrijfsleden.
+
+Hasselt PXL Elfde Liniestraat 
+06/12/2017 (3u)
+
+#### Seminarie Ordina
+
+Een end-to-end architectuur voor het bouwen van moderne mobiele applicaties ontdekken. Hands-on experience with the tools required.
+
+Hasselt PXL Elfde Liniestraat 
+13/12/2017 (3u)
+
+#### Seminarie Smart-ICT
+
+Introductie tot PXL Robotics Lab, AI, Machine Learning en Deeplearning (Convolutional Neural Nets, Recurrent Neural Nets). 
+
+Hasselt PXL Elfde Liniestraat 
+18/12/2017 (2u)
+
+#### Seminarie Contribute
+
+Uitleg over het bouwen van een intelligente chatbot en hou deze in de bedrijfswereld kan gebruikt worden.
+
+Hasselt PXL Elfde Liniestraat 
+20/12/2017 (3u)
+
+#### Seminarie Infofarm
+
+Uitleg over de positie van deep learning binnen AI met een overzicht van verschillende tools en technologieën. 
+
+Hasselt Corda Conference
+10/01/2018 (3u)
+
+#### Seminarie HR Techvalley
+
+In gaan op de evolutie van HR en hoe de nieuwste technologieën zoals machine learning hun weg vinden naar HR Tech.
+
+Hasselt PXL Elfde Liniestraat 
+17/01/2018 (2u)
+
+#### Blockchain – De digitale revolutie
+
+Uitleg over alle blockchain gerelateerde zaken en hoe deze technologie naar de toekomst toe kan toegepast worden.
+
+Hasselt PXL Elfde Liniestraat 
+17/01/2018 (2u)
+
+#### Studiereis Dublin
+
+Studiereis naar de hoofdstad van Ierland, Dublin. 4 dagen genieten van de cultuur in en rond Dublin.  
+
+Ierland Dublin
+25/04/2018 – 29/04/2018 (30u)
+
+#### OpenRPIGames
+
+Twee raspberry pi’s tegen mekaar opstellen en ze blad steen schaar tegen elkaar laten spelen.
+
+Hasselt Corda 7, PXL Robotics Lab
+02/04/2018 – 22/04/2018 (20u)
+
+#### HoloLens Experiments
+
+Bekendmaken met alle concepten van de HoloLens en deze onder de knie krijgen.
+
+Hasselt Corda 7, PXL Robotics Lab
+12/07/2018 – 29/07/2018 (20u)
+
+#### HoloDynamics365
+
+Een applicatie ontwikkelen die toestaat om klanten onder te dompelen in een AR verwelkomingservaring.
+
+Hasselt Corda 6, Scapta
+30/07/2018 – 10/08/2018 (20u)
+
 
 ### Studiereis Dublin

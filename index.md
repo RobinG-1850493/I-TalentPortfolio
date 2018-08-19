@@ -215,8 +215,7 @@ Voor dat ik kon starten met de HoloLens moest ik enkele software installaties do
 
 Deel 1 van de tutorial leert ons hoe we Unity en Visual Studio correct configureren voor het gebruik van de HoloLens. Het doel van dit hoofdstuk is een hologram plaatsen en hiermee interactief mee kunnen omgaan. Het omgaan gebeurt met behulp van Gaze en Gestures. Gaze is eigenlijk waar de gebruiker naar toe kijkt, het is belangrijk dat wanneer de user naar onze hologram kijkt er ook iets gebeurd. We voegen highlighting toe aan de hologram wanneer de gebruiker er naar kijkt. Men kan dan met het airtap gesture de hologram beïnvloeden. Je kan bijvoorbeeld met de hologram gooien. 
 
- 
-Figure 1: Code voorbeeld -- Gaze manager
+<p align="center"><img width="400" alt="portfolio_view" src="https://i.imgur.com/9Zpvwob.png"></p>
 
 In deel 2 van de tutorial gaan we specifieker in op Gaze en op Gestures. We maken gebruik van een prefab hologram die uit verschillende onderdelen bestaat. Op basis van waar de gebruiker aan het kijken is verandert de kleur van het onderdeel. Als men dan het airtap gesture gebruikt verandert de kleur van het onderdeel permanent. We voegen ook een Voice command toe. Wanneer we “Reset Hologram” zeggen moet de hologram en al zijn onderdelen terug gaan naar de orginele kleur.
 
@@ -225,6 +224,8 @@ In het derde en laatste deel leren we hoe we de ruimtelijke capaciteiten van de 
 Als opdracht om te kijken dat ik het effectief snapte had ik als doel een scan maken van het Dijkstra lokaal @ISpace en deze inladen in de HoloLens. Dit heb ik gedaan door te connecteren met het Windows device portal. Hier kan je een ruimte inscannen en dan als gameobject downloaden. Na het inscannen importeer ik de file in Unity en heb ik een gedetailleerde wireframe van het lokaal. Aan deze wireframe heb ik dan highlighting op basis van Gaze locatie toegevoegd en men kan ook hologrammen plaats met gestures. 
 
 Om toch kort te illustreren dat deze technologie echt wel impressionant kan zijn, kijken we even naar de scan en de hoeveelheid detail in deze scan. De SanBot in de hoek van de ruimte is duidelijk herkenbaar in de wireframes net zoals alle schermen en alle andere objecten.
+
+<p align="center"><img width="400" alt="portfolio_view" src="https://i.imgur.com/BrU0g0s.png"></p>
 
 #### Reflectie
 
@@ -247,7 +248,7 @@ Alle code van het project kan men terug vinden op de volgende twee github reposi
 Voor ik aan het project begon heb ik met de klant (Scapta) samengezeten om de Scope van het project te bepalen. Dit was belangrijk om de verwachting uit te lijnen en een planning op te stellen. Hierdoor had ik een goede basis om van start te kunnen gaan.
 
  
-Figuur 1: Werkplaats en de hololens
+<p align="center"><img width="400" alt="portfolio_view" src="https://i.imgur.com/2ke8utv.jpg"></p>
 Voor ik aan het project begon moest ik er voor zorgen dat Unity en Visual Studio juist geconfigureerd waren voor het ontwikkelen met een HoloLens. Ik heb Visual Studio gepaired met de HoloLens zodat ik de applicatie kon deployen. Alsook heb ik Unity configureerd zodat deze Mixed Reality development toestaat.
 
 Mijn eerste doel was het UI in orde brengen. Dit moest dynamisch gebeuren op basis van de gegeven data. Ik heb voor deze taak gebruikt gemaakt van een library van Microsoft genaamd de HoloToolkit.Unity. Deze library bevat voor geprogrammeerde object en UI elementen. Ik heb een Holograpic Button prefab genomen om van start te gaan, deze vormt de basis van het menu. Ik heb deze prefab aangepast zodat het design bij de use-case paste en zodat deze een url konden aanvaarden om een logo in te laden. Een menu bestaat uit meerdere van deze buttons die met behulp van het Object Collection script uitgelijnt worden. Deze menu’s worden dynamisch gegenereerd op basis van de data die de methode in kwestie ontvangt.
@@ -255,7 +256,7 @@ Mijn eerste doel was het UI in orde brengen. Dit moest dynamisch gebeuren op bas
 Het tweede doel was de connectie maken met het CRM systeem en deze dat in te laden in de applicatie. Hier heb ik erg veel problemen ondervonden omdat er leterlijk geen documentatie over het gebruik van de sdk in Unity bestaat. Uiteindelijk heb ik beslist om een met ASP.NET een wrapper API te schrijven. Deze maakt gebruikt van het XRM SDK van Microsoft om connectie te maken en alle data uit het CRM systeem te halen. In de applicatie spreekt ik deze API dan aan om de nodige data te kunnen gebruiken. 
 
  
-Figuur 2: Unity werkomgeving
+<p align="center"><img width="400" alt="portfolio_view" src="https://i.imgur.com/kYJ1yKa.png"></p>
 Doel drie was het kunnen afspelen van filmpjes, dit vormde een probleem omdat unity geen youtube links ondersteund, hiervoor heb ik een github project gevonden en dit aangepast voor onze use-case. Verder heb ik een twee video speler gemaakt die met absolute link kan omspringen (bv. http://scapta.com/sample.mp4). De verschillende types worden in het API gescheiden zodat de juiste video speler gebruikt wordt. 
 
 Het vierde doel was een pdf kunnen laten zien in de applicatie, hiervoor heb ik erg veel research gedaan en meerdere aanpakken geprobeert. Jammer genoeg lijkt geen enkele methode te werken. Om een post op het hololens forum te quoten, “The hololens was not designed to display 2D content”. Dit doel is dus mislukt.

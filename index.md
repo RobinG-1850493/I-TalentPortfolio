@@ -146,7 +146,7 @@ Er werd ons verteld dat alle bedrijfsbezoeken afgelast waren. Dit betekende dat 
 
 Op vrijdag hadden we een bus tour geboekt die ons naar het noorden van Ierland bracht. Deze tour bezocht vele van de film locaties van Game of Thrones en ook de bekende Giants Causeway. Het bezoeken van de film locaties was zeer tof, zeker omdat ik een grote fan van de serie ben. Maar het hoogtepunt van de tour was de natuur in noord Ierland en de Giants Causeway. Aan de Causeway besloten we van de route af te gaan en een rots te beklimmen, deze bood een ongelofelijk uitzicht over de oceaan, de Causeway en alle natuur rondom. Verder hebben we de “hard” wandel route gevolgd om zo bij een bijna verticale trap aan te komen die ons tot boven aan de cliff leiden. Hier kregen we dan een overzicht van alle bezienswaardigheden rondom ons. De tour is 100% een aanrader, de tour gids gaf ons ook de geschiedenis van de Ieren mee wat een grote meerwaarde was.
  
-<p align="center"><img width="800" alt="portfolio_view" src="https://i.imgur.com/evczebn.jpg"></p>
+<p align="center"><img width="650" alt="portfolio_view" src="https://i.imgur.com/evczebn.jpg"></p>
  
 Op de avond zijn we naar de regio rond de temple bar afgezakt. Hier vonden we een restaurant genaamd “The Old Storehouse”. Hier hing echt een top sfeer, er was constante live muziek te horen. De muzikant vroeg aan elke tafel van welk land ze afkomstig waren en het werd snel duidelijk dat er mensen vanuit elke hoek van de wereld aanwezig waren. Het eten was ook zeker aan te raden. Hierna volgde er nog een korte stop in de temple bar zelf om eens van de Ierse bieren te proeven. 
 

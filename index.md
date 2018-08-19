@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## I-Talent Portfolio Robin Goos
+### Introductie
 
-You can use the [editor on GitHub](https://github.com/RobinGoos/I-TalentPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ik ben Robin Goos, laatstejaars student applicatie ontwikkeling aan de Hogoschool PXL in Hasselt. Ik ben geboren en getogen in Hasselt en woon momenteel in Stevoort. Mijn passie en interesse in informatica is begonnen tijdens mijn jeugd. Mijn vader bracht altijd verschillende oude elektronica mee naar huis die ik dan met volle goesting uit elkaar haalde. Deze probeerde ik dan, meestal zonder succes, opnieuw in elkaar te steken. Ik ben iemand wiens motivatie voortkomt uit interesse, dit heb ik tijdens mijn I-Talent traject zeker gemerkt. Buiten informatica geef ik judo les aan jongeren bij judo club Hajime Stevoort. Ik doe al 15+ jaar judo, het respectvol zijn en de discipline zit er bij mij dan ook erg ingebakken.
 
-### Markdown
+Van nature ben ik een erg introvert persoon en ik heb tijd nodig om mensen te leren kennen en vertrouwen. Hierdoor ben ik eerder timide in sociale situaties, verder ben ik een enorm kalm persoon. Ik jaag me zelden of nooit op en neem altijd de tijd om dingen goed te doen in plaats van snel. Ik denk altijd lang na over beslissingen en ben niet impulsief. 
+
+
+### Overzicht Activiteiten
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobinGoos/I-TalentPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Studiereis Dublin

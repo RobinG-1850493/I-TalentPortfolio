@@ -1,7 +1,7 @@
 ## I-Talent Portfolio Robin Goos
 ### Introductie
 
-<img width="200" alt="portfolio_view" src="https://i.imgur.com/muZTLKm.jpg">
+<img width="200" align="center" alt="portfolio_view" src="https://i.imgur.com/muZTLKm.jpg">
 
 Ik ben Robin Goos, laatstejaars student applicatie ontwikkeling aan de Hogoschool PXL in Hasselt. Ik ben geboren en getogen in Hasselt en woon momenteel in Stevoort. Mijn passie en interesse in informatica is begonnen tijdens mijn jeugd. Mijn vader bracht altijd verschillende oude elektronica mee naar huis die ik dan met volle goesting uit elkaar haalde. Deze probeerde ik dan, meestal zonder succes, opnieuw in elkaar te steken. Ik ben iemand wiens motivatie voortkomt uit interesse, dit heb ik tijdens mijn I-Talent traject zeker gemerkt. Buiten informatica geef ik judo les aan jongeren bij judo club Hajime Stevoort. Ik doe al 15+ jaar judo, het respectvol zijn en de discipline zit er bij mij dan ook erg ingebakken.
 
@@ -136,6 +136,7 @@ Een applicatie ontwikkelen die toestaat om klanten onder te dompelen in een AR v
 
 **Hasselt Corda 6, Scapta
 30/07/2018 – 10/08/2018 (20u)**
+
 </details>
 
 ### Studiereis Dublin

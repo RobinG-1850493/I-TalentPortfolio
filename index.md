@@ -137,4 +137,5 @@ Een applicatie ontwikkelen die toestaat om klanten onder te dompelen in een AR v
 **Hasselt Corda 6, Scapta
 30/07/2018 – 10/08/2018 (20u)**
 </details>
+
 ### Studiereis Dublin

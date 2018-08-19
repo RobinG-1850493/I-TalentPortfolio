@@ -1,30 +1,3 @@
-<style>
-.content {
-    padding: 0 18px;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-}
-</style>
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
-<button class="collapsible">Open Section 1</button>
-<div class="content">
 ## I-Talent Portfolio Robin Goos
 ### Introductie
 
@@ -160,8 +133,6 @@ Een applicatie ontwikkelen die toestaat om klanten onder te dompelen in een AR v
 
 **Hasselt Corda 6, Scapta
 30/07/2018 – 10/08/2018 (20u)**
-</div>
-
 
 ### Studiereis Dublin
 

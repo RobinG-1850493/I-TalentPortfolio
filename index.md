@@ -8,7 +8,7 @@ Ik ben Robin Goos, laatstejaars student applicatie ontwikkeling aan de Hogoschoo
 Van nature ben ik een erg introvert persoon en ik heb tijd nodig om mensen te leren kennen en vertrouwen. Hierdoor ben ik eerder timide in sociale situaties, verder ben ik een enorm kalm persoon. Ik jaag me zelden of nooit op en neem altijd de tijd om dingen goed te doen in plaats van snel. Ik denk altijd lang na over beslissingen en ben niet impulsief. 
 
 
-### Overzicht Activiteiten
+<details><summary>### Overzicht Activiteiten</summary>
 #### Projectweek 2TIN
 
 Kennismaking met projectpartners en het bijwonen van verschillende seminaries en workshops.
@@ -134,5 +134,5 @@ Een applicatie ontwikkelen die toestaat om klanten onder te dompelen in een AR v
 
 **Hasselt Corda 6, Scapta
 30/07/2018 – 10/08/2018 (20u)**
-
+</details>
 ### Studiereis Dublin
